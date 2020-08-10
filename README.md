@@ -4,10 +4,6 @@
 
 <div align="center">
 
-[![GitHub stars](https://img.shields.io/github/stars/beatrizaraujoam/proffy-discovery)](https://github.com/beatrizaraujoam/proffy-discovery/stargazers)<space> <space>[![GitHub license](https://img.shields.io/github/license/beatrizaraujoam/proffy-discovery)](https://github.com/beatrizaraujoam/proffy-discovery/blob/master/LICENSE)<space> <space>[![GitHub forks](https://img.shields.io/github/forks/guilhermecapitao/proffy-discovery)](https://github.com/beatrizaraujoam/proffy-discovery/network)
-
-</div>
-
 ## 📋 Índice
 
 - [Sobre](#-Sobre)
