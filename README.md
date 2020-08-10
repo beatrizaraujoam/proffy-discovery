@@ -1,6 +1,3 @@
-<p align="center">
-   <img src="images/nlw.svg">" width="150" >
-</p>
 
 
 
