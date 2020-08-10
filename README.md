@@ -2,7 +2,7 @@
   <img src="https://ik.imagekit.io/beatrizaraujoam/Proffy/nlw2_6d7PvlHZ5.svg" width="150" >
 </p>
 
-<div align="center">
+
 
 ## 📋 Índice
 
