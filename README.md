@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://ik.imagekit.io/beatrizaraujoam/Proffy/nlw2_6d7PvlHZ5.svg" width="150" >
+   <img src="images/nlw.svg">" width="150" >
 </p>
 
 
