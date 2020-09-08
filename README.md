@@ -12,9 +12,8 @@
 
 ## 🖥 Preview 
 
-<p align="center">
-
-</p>
+![web-landing](https://user-images.githubusercontent.com/42151127/92501035-63538480-f1d4-11ea-8fe9-4bcb0e1343f0.png)
+![web-list](https://user-images.githubusercontent.com/42151127/92501030-62baee00-f1d4-11ea-956e-f9a1b00df935.png)
 
 ---
 
